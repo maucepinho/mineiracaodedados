@@ -1,0 +1,62 @@
+{
+  "total_registros": 344,
+  "frequencias": {
+    "Adelie": {
+      "absoluta": 152,
+      "relativa_percentual": 44.18604651162791
+    },
+    "Chinstrap": {
+      "absoluta": 68,
+      "relativa_percentual": 19.767441860465116
+    },
+    "Gentoo": {
+      "absoluta": 124,
+      "relativa_percentual": 36.04651162790697
+    }
+  },
+  "especie_mais_frequente": "Adelie",
+  "diferenca_maior_menor_frequencia": 84,
+  "estatisticas": {
+    "body_mass_g": {
+      "n_validos": 342,
+      "ausentes": 2,
+      "media": 4201.754385964912,
+      "mediana": 4050.0,
+      "modas": [
+        3800.0
+      ],
+      "frequencia_moda": 12,
+      "desvio_padrao_amostral": 801.9545356980955,
+      "minimo": 2700.0,
+      "maximo": 6300.0
+    },
+    "bill_length_mm": {
+      "n_validos": 342,
+      "ausentes": 2,
+      "media": 43.9219298245614,
+      "mediana": 44.45,
+      "modas": [
+        41.1
+      ],
+      "frequencia_moda": 7,
+      "desvio_padrao_amostral": 5.4595837139265315,
+      "minimo": 32.1,
+      "maximo": 59.6
+    },
+    "flipper_length_mm": {
+      "n_validos": 342,
+      "ausentes": 2,
+      "media": 200.91520467836258,
+      "mediana": 197.0,
+      "modas": [
+        190.0
+      ],
+      "frequencia_moda": 22,
+      "desvio_padrao_amostral": 14.061713679356888,
+      "minimo": 172.0,
+      "maximo": 231.0
+    }
+  },
+  "z_massa_maxima": 2.6164146726953548,
+  "z_massa_minima": -1.8726178593873108
+}
