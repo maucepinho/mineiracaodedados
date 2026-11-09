@@ -1,0 +1,21 @@
+{
+  "status": "concluido",
+  "modo": "coleta_e_banco",
+  "inicio_utc": "2026-11-09T22:17:01+00:00",
+  "fim_utc": "2026-11-09T22:18:36+00:00",
+  "fonte": "https://books.toscrape.com/",
+  "moeda_preco": "GBP",
+  "registros_esperados": 1000,
+  "paginas_coletadas": 50,
+  "registros_validados": 1000,
+  "registros_confirmados_banco": 1000,
+  "banco_validado": true,
+  "tempo_coleta_segundos": 94.665345,
+  "tempo_leitura_csv_segundos": null,
+  "tempo_banco_segundos": 0.190419,
+  "tempo_total_coleta_e_persistencia_segundos": 94.868783,
+  "tempo_total_importacao_segundos": null,
+  "workers": 4,
+  "pausa_por_request_segundos": 0.15,
+  "tempo_total_execucao_segundos": 94.868783
+}
